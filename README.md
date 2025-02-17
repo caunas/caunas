@@ -23,6 +23,6 @@
 
 <div>
   <a href = "https://www.kaggle.com/caunas">
-    <img src = "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+    <img src = "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> -> Meus notebooks públicos
   </a>
 </div>
