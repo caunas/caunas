@@ -1,6 +1,6 @@
 ## Olá 👋
 
-- 🌱 Atualmente, estou estudando desenvolvimento back-end ciências de dados
+- 🌱 Atualmente, estou estudando desenvolvimento back-end e ciências de dados
 - 🔭 Minha linguagem principal atualmente é Python
 - 💬 Me pergunte sobre tecnologia e games
 - ⚡ Um fato curioso: Foi graças a um projeto de programação, que eu consegui me formar no ensino médio
